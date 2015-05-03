@@ -1,0 +1,3 @@
+#!/bin/bash
+
+rm -f /home/xhz/Project/UserHelper/sh/just-test
