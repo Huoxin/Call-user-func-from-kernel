@@ -1,0 +1,5 @@
+#!/bin/bash
+
+touch /home/xhz/Project/UserHelper/sh/just-test
+echo "Hello World!" > /home/xhz/Project/UserHelper/sh/just-test
+sh /home/xhz/Project/UserHelper/sh/123
